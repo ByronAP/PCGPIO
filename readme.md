@@ -1,6 +1,6 @@
 # PCGPIO
 
-**A powerful and versatile solution for adding GPIO to a PC by for controlling microcontroller-based hardware controllers like Arduino AVR, ESP32, STM32, and Teensy via serial communication.**
+**A powerful and versatile solution for adding GPIO to a PC by controlling microcontroller-based hardware controllers like Arduino AVR, ESP32, STM32, and Teensy via serial communication.**
 
 PCGPIO simplifies interaction with your hardware, offering a robust and intuitive interface for hobbyists and professionals alike. Whether you're building a custom project or developing industrial automation solutions, PCGPIO empowers you to:
 
